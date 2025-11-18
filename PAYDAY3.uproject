@@ -21,10 +21,10 @@
 		}
 	],
 	"Plugins": [
-    {
-      "Name": "Wwise",
-      "Enabled": true
-    },
+		{
+			"Name": "Wwise",
+			"Enabled": true
+		},
 		{
 			"Name": "PlatformCrypto",
 			"Enabled": true
@@ -152,8 +152,7 @@
 		},
 		{
 			"Name": "MfMedia",
-			"Enabled": false,
-			"BlacklistPlatforms": []
+			"Enabled": false
 		},
 		{
 			"Name": "Niagara",
@@ -361,7 +360,8 @@
 			"Name": "FSR3",
 			"Enabled": true,
 			"SupportedTargetPlatforms": [
-				"Win64"
+				"Win64",
+				"WinGDK"
 			]
 		},
 		{
@@ -390,14 +390,18 @@
 			"Name": "TLMVoiceChat",
 			"Enabled": true,
 			"SupportedTargetPlatforms": [
-				"Win64"
+				"Win64",
+				"WinGDK",
+				"PS5",
+				"XSX"
 			]
 		},
 		{
 			"Name": "ChromaSDKPlugin",
 			"Enabled": true,
 			"SupportedTargetPlatforms": [
-				"Win64"
+				"Win64",
+				"WinGDK"
 			]
 		},
 		{
@@ -497,6 +501,10 @@
 		{
 			"Name": "ChaosCloth",
 			"Enabled": false
+		},
+		{
+			"Name": "UnrealAutoMod",
+			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
