@@ -5,10 +5,10 @@ rn contains:
 
 perosnal projects : 
 
-    -Nightmare HUD
+    Nightmare HUD
 
-    -Rainbow-HUD
+    Rainbow-HUD
 
 Maintenance:
 
-    -BetaHUD
+    BetaHUD
