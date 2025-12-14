@@ -7,9 +7,11 @@ rn contains:
 
 perosnal projects : 
 
-    Nightmare HUD
+    NightmareHUD
 
     Rainbow-HUD
+
+    possibly MikuHUD
 
 Maintenance:
 
