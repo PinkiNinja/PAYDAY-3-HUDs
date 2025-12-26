@@ -5,13 +5,11 @@ This repo has some of my own perosnal HUDs as well as some HUDs from other peopl
 
 rn contains:
 
-perosnal projects : 
+personal projects : 
 
     NightmareHUD
 
     Rainbow-HUD
-
-    possibly MikuHUD
 
     ✌✉✏♦✍☎✆ ✌♣♪✂♣
 
